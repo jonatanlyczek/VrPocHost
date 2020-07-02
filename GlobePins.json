@@ -32,6 +32,62 @@
       },
       "name": "testingPin",
       "description": "testin pin description"
+    },
+    {
+      "polarRay":{
+        "theta": 0.1,
+        "phi": 3.14
+      },
+      "name": "testingPin",
+      "description": "testin pin description"
+    },
+    {
+      "polarRay":{
+        "theta": 0.1,
+        "phi": 3.14
+      },
+      "name": "testingPin",
+      "description": "testin pin description"
+    },
+    {
+      "polarRay":{
+        "theta": 1.57,
+        "phi": 3.14
+      },
+      "name": "testingPin",
+      "description": "testin pin description"
+    },
+    {
+      "polarRay":{
+        "theta": 0.1,
+        "phi": 3.14
+      },
+      "name": "testingPin",
+      "description": "testin pin description"
+    },
+    {
+      "polarRay":{
+        "theta": 1.57,
+        "phi": 1.57
+      },
+      "name": "testingPin",
+      "description": "testin pin description"
+    },
+    {
+      "polarRay":{
+        "theta": 3.14,
+        "phi": 3.14
+      },
+      "name": "testingPin",
+      "description": "testin pin description"
+    },
+    {
+      "polarRay":{
+        "theta": 3.14,
+        "phi": 1.57
+      },
+      "name": "testingPin",
+      "description": "testin pin description"
     }
   ]
 }
