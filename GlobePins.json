@@ -16,6 +16,22 @@
     },
     "name": "second testing pin",
     "description": "second testing pin description"
+    },
+    {
+      "polarRay":{
+        "theta": 0,
+        "phi": 0
+      },
+      "name": "testingPin",
+      "description": "testin pin description"
+    },
+    {
+      "polarRay":{
+        "theta": 0,
+        "phi": 3.14
+      },
+      "name": "testingPin",
+      "description": "testin pin description"
     }
   ]
 }
