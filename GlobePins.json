@@ -37,7 +37,7 @@
     
    {
     "polarRay":{
-      "theta": 0,
+      "theta": 0.3,
       "phi": 1
     },
     "name": "second testing pin",
@@ -46,7 +46,7 @@
     
    {
     "polarRay":{
-      "theta": 0,
+      "theta": 0.3,
       "phi": 2
     },
     "name": "second testing pin",
@@ -55,7 +55,7 @@
     
    {
     "polarRay":{
-      "theta": 0,
+      "theta": 0.3,
       "phi": 3
     },
     "name": "second testing pin",
