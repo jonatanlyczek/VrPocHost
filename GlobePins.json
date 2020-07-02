@@ -3,69 +3,16 @@
     {
       "polarRay":{
         "theta": 0,
-        "phi": 0
+        "phi": 1.57
       },
       "name": "testingPin",
       "description": "testin pin description"
     },
-   {
-    "polarRay":{
-      "theta": 1,
-      "phi": 0
-    },
-    "name": "second testing pin",
-    "description": "second testing pin description"
-    },
     
    {
     "polarRay":{
-      "theta": 2,
-      "phi": 0
-    },
-    "name": "second testing pin",
-    "description": "second testing pin description"
-    },
-    
-   {
-    "polarRay":{
-      "theta": 3,
-      "phi": 0
-    },
-    "name": "second testing pin",
-    "description": "second testing pin description"
-    },
-    
-   {
-    "polarRay":{
-      "theta": 0.3,
-      "phi": 1
-    },
-    "name": "second testing pin",
-    "description": "second testing pin description"
-    },
-    
-   {
-    "polarRay":{
-      "theta": 0.3,
-      "phi": 2
-    },
-    "name": "second testing pin",
-    "description": "second testing pin description"
-    },
-    
-   {
-    "polarRay":{
-      "theta": 0.3,
-      "phi": 3
-    },
-    "name": "second testing pin",
-    "description": "second testing pin description"
-    },
-    
-   {
-    "polarRay":{
-      "theta": 3,
-      "phi": 3
+      "theta": 3.14,
+      "phi": 1.57
     },
     "name": "second testing pin",
     "description": "second testing pin description"
