@@ -10,11 +10,27 @@
     },
     {
       "polarRay":{
-        "theta": 3.14,
-        "phi": 1.57
+        "theta": 1.61,
+        "phi": 0.62
       },
-      "name": "testingPin",
-      "description": "testin pin description"
+      "name": "Brazil",
+      "description": "34 attacks"
+    },
+    {
+      "polarRay":{
+        "theta": 0.82,
+        "phi": 0.02
+      },
+      "name": "USA",
+      "description": "204 attacks"
+    },
+    {
+      "polarRay":{
+        "theta": 0.71,
+        "phi": 1.83
+      },
+      "name": "France",
+      "description": "55 attacks"
     }
   ]
 }
